@@ -4,8 +4,8 @@ public class ApplicationMain {
 		String[] shopList = new String[] {
 				"Apples",
 				"Bananas",
-				"Corn",
-				"Dog Food",
+				"Cucumber",
+				"Cat Food",
 				"Cereal", 
 				"Bread", 
 				"Eggs",
